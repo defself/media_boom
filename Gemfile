@@ -38,6 +38,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'haml-rails', '~> 0.5.3'
+gem 'foundation-rails', '~> 5.4.5.0'
+
 group :development, :test do
   gem 'rspec-rails', '~> 3.1.0'
   gem 'factory_girl_rails', '~> 4.5.0'
