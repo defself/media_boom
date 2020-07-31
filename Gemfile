@@ -40,7 +40,7 @@ gem 'spring',        group: :development
 
 gem 'haml-rails', '~> 0.5.3'
 gem 'foundation-rails', '~> 5.4.5.0'
-gem 'devise', '~> 3.4.1'
+gem 'devise', '~> 4.7.1'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.1.0'
